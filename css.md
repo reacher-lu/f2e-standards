@@ -19,6 +19,7 @@
 
 - 背景图片请尽可能使用sprite技术, 减小http请求, 考虑到多人协作开发, sprite按模块制作;
 
+- 项目结构参考 [项目结构](./overview.md#folder)
 
 
 
