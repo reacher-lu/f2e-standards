@@ -13,16 +13,25 @@
 
 
 
-## <a name='doctype'>规范列表</a>
+## <a name='doctype'>文档声明</a>
 
 - 文档类型声明及编码: 统一为html5声明类型<!DOCTYPE html>; 编码统一为<meta charset="utf-8" />
+  ```html
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{title}}</title>
+    <meta name="keywords" content="{{keywords}}" />
+    <meta name="description" content="{{description}}" />
+  ```
 - 书写时利用IDE实现层次分明的缩进，缩进使用2个空格;
 
 
 
 ## <a name='w3c'>[W3C](http://www.w3.org/)标准</a>
 
-- 所有标签都必须闭合，如果是单独不成对的标签，在标签最后加一个"/"来关闭它，如 br (<br />), hr(<hr />)等;
+- 所有标签都必须闭合，如果是单独不成对的标签，在标签最后加一个"/"来关闭它，如 br (\<br /\>), hr($\<hr /\>)等;
 
 - 所有的属性必须用引号""括起来，不要不加，也不要使用单引号（如 name="Reacher's dog"）&quot; &apos;
 

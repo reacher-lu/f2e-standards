@@ -14,10 +14,10 @@
 
 ## <a name='list'>规范列表</a>
 
-  + `页面规范（html）`
-  + `样式规范（css）`
-  + `脚本规范（javascript）`
-  + `移动web开发规范`
+  + `[页面规范](./html.md)（html）`
+  + `[样式规范](./css.md)（css）`
+  + `[脚本规范](./javascript.md)（javascript）`
+  + `[移动web开发规范](./mobile.md)`
 
 
 
@@ -47,8 +47,9 @@
 
 - 所有样式定义 在class中，id与data-xxx 只用于js操作
 - 页面中如非必要，不要使用style=""属性，也不要使用诸如：
-    + <style>…</style>
-    + <script src="…"></script>
+    + \<style\>…\</style\>
+    + \<script src="…"\>\</script\>
+
   等页面内的样式及脚本
 
 
