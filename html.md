@@ -17,6 +17,7 @@
 
 - 文档类型声明及编码: 统一为html5声明类型<!DOCTYPE html>; 编码统一为\<meta charset="utf-8" /\>
   ```html
+  
   <!DOCTYPE html>
   <html>
   <head>
@@ -24,6 +25,7 @@
     <title>{{title}}</title>
     <meta name="keywords" content="{{keywords}}" />
     <meta name="description" content="{{description}}" />
+    
   ```
 - 书写时利用IDE实现层次分明的缩进，缩进使用2个空格;
 
