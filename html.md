@@ -4,10 +4,10 @@
 
 ## <a name='list'>查看其他规范</a>
 
-  + `[页面规范](./html.md)（html）`
-  + `[样式规范](./css.md)（css）`
-  + `[脚本规范](./javascript.md)（javascript）`
-  + `[移动web开发规范](./mobile.md)`
+  + [`页面规范`](./html.md)（html）
+  + [`样式规范`](./css.md)（css）
+  + [`脚本规范`](./javascript.md)（javascript）
+  + [`移动web开发规范`](./mobile.md)
 
 
 ## <a name='TOC'>目录</a>
