@@ -15,7 +15,7 @@
 
 ## <a name='doctype'>文档声明</a>
 
-- 文档类型声明及编码: 统一为html5声明类型<!DOCTYPE html>; 编码统一为<meta charset="utf-8" />
+- 文档类型声明及编码: 统一为html5声明类型<!DOCTYPE html>; 编码统一为\<meta charset="utf-8" /\>
   ```html
   <!DOCTYPE html>
   <html>
