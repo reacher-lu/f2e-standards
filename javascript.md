@@ -227,7 +227,7 @@
     var name = 'Bob Parr';
 
     //不推荐
-    var fullName - "Bob " + this.lastName;
+    var fullName = "Bob " + this.lastName;
 
     //推荐
     var fullName = 'Bob ' + this.lastName;
